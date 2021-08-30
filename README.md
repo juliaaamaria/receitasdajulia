@@ -1,2 +1,3 @@
-# receitasdajulia
-Receitas da Julia teste primeiro site
+# Criando primeiro Site - Julia Maria
+Receitas da Julia - Bolinho de cHUVA
+https://juliaaamaria.github.io/receitasdajulia/
