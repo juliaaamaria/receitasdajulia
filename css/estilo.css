@@ -1,0 +1,35 @@
+body{
+
+	background-color: ghostwhite;
+	color: #000000;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+h1{
+	color: #4682B4;
+    text-align: center;
+}
+
+ h3{
+ 	text-align: center;
+ 	color: #6959CD;
+ }
+
+h5{
+	color: 	#836FFF;
+	font-size: 20px;
+}
+
+p{ 
+	font-size: 18px;
+	text-align: justify;
+ }
+
+figure{
+text-align: center;
+}
+
+img{
+width: 100%;
+}
